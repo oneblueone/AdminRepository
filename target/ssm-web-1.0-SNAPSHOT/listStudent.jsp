@@ -63,6 +63,7 @@
       </table>
       <input type="button" id="btnLoader" value="查询数据">
       <input type="button" id="return" value="返回首页">
+      <a href="index.jsp">返回首页</a>
   </div>
 </body>
 </html>
